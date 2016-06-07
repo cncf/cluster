@@ -18,6 +18,24 @@ Simply file an issue here and fill out the details mentioned in the issue templa
 
 TODO
 
+## Hardware
+
+### Compute Node Spec
+
+* 2x Intel E5-2680v3 12-core
+* 256GB RAM
+* 2x Intel S3610 400GB SSD
+* 1x Intel P3700 800GB NVMe PCIe SSD
+* 1x QP Intel X710
+
+### Storage Node Spec
+
+* 2x Intel E5-2680v3 12-core
+* 128GB RAM
+* 2x Intel S3610 400GB SSD
+* 10x Intel 2TB NLSAS HDD
+* 1x QP Intel X710"
+
 ## Expectations
 
 The following is expected from the CNCF cluster users:
