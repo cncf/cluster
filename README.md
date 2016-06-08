@@ -16,7 +16,9 @@ Simply file an issue here and fill out the details mentioned in the issue templa
 
 ## Cluster Governance Council
 
-TODO
+* Bryan Cantrill
+* Jason Mendenhall
+* Jonathan Donaldson
 
 ## Hardware
 
