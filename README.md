@@ -12,7 +12,7 @@ The CNCF community cluster is deployed with the following intent in mind:
 
 ## Submitting Requests
 
-Simply file an issue here and fill out the details mentioned in the issue template.
+Simply file an [issue](https://github.com/cncf/cluster/issues) here and fill out the details mentioned in the issue template.
 
 ## Cluster Governance Council
 
