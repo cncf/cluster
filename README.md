@@ -1,6 +1,6 @@
 # CNCF Cluster Community
 
-[![Cluster Request Backlog](https://badge.waffle.io/cncf/cluster.svg?label=ready&title=Ready)](http://waffle.io/cncf/cluster)
+See the cluster request backlog: [![Cluster Request Backlog](https://badge.waffle.io/cncf/cluster.svg?label=ready&title=Ready)](http://waffle.io/cncf/cluster)
 
 ## About
 
