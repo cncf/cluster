@@ -20,17 +20,21 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
  
 ### Do you intend to measure specific metrics during the work? Please describe briefly
  
-### Which members of community and/or end-users would benefit from your work?
- 
+### Which members of the CNCF community and/or end-users would benefit from your work?
+
+### Is the code that you’re going be running 100% open source? If so, what is the URL or URLs where it is located?
+
 ### Do you commit to publishing your results and upstreaming the open source code resulting from your work? Do you agree to this within 2 months of cluster use?
+
+### Will your testing involve containers? If not, could it? What would be entailed in changing your processes to containerize your workload?
  
 ### Are there identified risks which would prevent you from achieving significant results in the project ?
  
-### Have you requested CNCF cluster resources or access in the past? If ‘no’, please skip questions 2 through 4.
+### Have you requested CNCF cluster resources or access in the past? If ‘no’, please skip the next three questions.
  
 ### Please list project titles associated with prior CNCF cluster usage.
  
-### Please list contributions to open source initiatives for projects listed in question 2. If you did not upstream the results of the open source initiative in any of the projects, please explain why.
+### Please list contributions to open source initiatives for projects listed in the last question. If you did not upstream the results of the open source initiative in any of the projects, please explain why.
  
 ### Have you ever been denied usage of the cluster in the past? If so, please explain why.
  
@@ -41,5 +45,7 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
 ### Duration of request (minimum 24 hours)
  
 ### With or Without an operating system (Restricted to CNCF pre-defined OS and versions)?
+
+### How will this testing advance cloud native computing (specifically containerization, orchestration, microservices or some combination).
 
 ### Any other relevant details we should know about while preparing the infrastructure?
