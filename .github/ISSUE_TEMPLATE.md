@@ -42,7 +42,7 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
  
 ### Number of nodes requested (minimum 20 nodes, maximum 500 nodes). In Q3, maximum increases to 1000 nodes.
  
-### Duration of request (minimum 24 hours)
+### Duration of request (minimum 24 hours, maximum 2 weeks)
  
 ### With or Without an operating system (Restricted to CNCF pre-defined OS and versions)?
 
