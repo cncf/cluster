@@ -48,3 +48,4 @@ The following is expected from the CNCF cluster users:
 * Users will need to return the servers back to a well-defined and understood baseline, post use.
 * Users ensure that no proprietary software or data on the cluster is intentionally exposed. Neither CNCF nor Intel bears the responsibility for exposure of proprietary information under any circumstances.
 * We do not expect any physical changes to be requested of the cluster. Hence, there is no expectation of on-site presence.
+* Agree to the [Terms of Use](TERMS_OF_USE.md)
