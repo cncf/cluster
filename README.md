@@ -22,6 +22,12 @@ Simply file an [issue](https://github.com/cncf/cluster/issues) here and fill out
 
 ## Hardware
 
+### Nodes Amount
+
+Currently, there are around **400** nodes available for community to run tests on. Starting from **Q2'17**, the maximum number of nodes available will increase to **900**.
+
+This number is open to change based on long running CI allocations.
+
 ### Compute Node Spec
 
 * 2x Intel E5-2680v3 12-core
@@ -37,6 +43,19 @@ Simply file an [issue](https://github.com/cncf/cluster/issues) here and fill out
 * 2x Intel S3610 400GB SSD
 * 10x Intel 2TB NLSAS HDD
 * 1x QP Intel X710"
+
+### Network Spec
+
+![CNCF Network Spec](https://github.com/cncf/cluster/blob/master/cncf-network.png)
+
+## Software
+
+Before handing the infrastructure, CNCF cluster operators can provision the nodes with an Operating System. Currently, following options are supported:
+
+* CoreOS (any)
+* Ubuntu 16.04 LTS
+* CentOS 7
+* RHEL 7.2
 
 ## Expectations
 
