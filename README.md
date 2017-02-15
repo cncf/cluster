@@ -17,8 +17,9 @@ Simply file an [issue](https://github.com/cncf/cluster/issues) here and fill out
 ## Cluster Governance Council
 
 * Bryan Cantrill
+* Dan Kohn
 * Jason Mendenhall
-* Jonathan Donaldson
+* Nicholas Weaver
 
 ## Hardware
 
