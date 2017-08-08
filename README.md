@@ -1,71 +1,27 @@
-# CNCF Cluster Community
+# CNCF Community Infrastructure Lab (CIL)
 
 See the cluster request backlog: [![Cluster Request Backlog](https://badge.waffle.io/cncf/cluster.svg?label=ready&title=Ready)](http://waffle.io/cncf/cluster)
 
-## About
+The CNCF Community Infrastructure Lab (CIL) provides free access to state-of-the-art computing resources for open source developers working to advance cloud native computing. We currently offer access to both x86 and ARMv8 bare metal servers for software builds, continuous integration, scale testing, and demonstrations. 
 
-The CNCF community cluster is deployed with the following intent in mind:
+The on-demand infrastructure resource is generously contributed and managed by New York City-based [Packet](https://www.packet.net/), a leading bare metal cloud, as part of its commitment to the cloud native and open source communities. The resources are available from 15 locations across the globe; including New York City, Silicon Valley, Amsterdam, and Tokyo. It allows developers extended testing or the ability to build out continuous integrated infrastructure with the automation and consistency of big public clouds without being required to use virtualization.
 
-* Make available hardware for the community working on CNCF projects and related infrastructure.
-* Make available hardware for the CNCF members needing to develop, debug and run cloud native software on relevant infrastructure at scale.
-* Give users a staged path to first develop and test on a small scale and then at large.
+Apply to Use the On-Demand Infrastructure: https://github.com/cncf/cluster
 
-## Submitting Requests
+Request access and then get up and running in minutes!
 
-Simply file an [issue](https://github.com/cncf/cluster/issues) here and fill out the details mentioned in the issue template.
+## Infrastructure benefits:
+* Allows developers extended testing or the ability to build out continuously integrated infrastructure with the automation and consistency of big public clouds without needing to use virtualization. 
+* Can be leveraged to curate server configurations for different use cases, test new protocols without layers of complexity, and integrate with leading cloud and developer tools. 
+* Developers will also have the ability to bring their own image or operating system and have complete control of the cluster, enabling them to test across different environments simultaneously.
+* Based on their testing needs, developers can choose from five server configurations offering different sizes, platform features, and architectures (e.g., x86 and ARMv8). 
+* Each bare metal configuration is API driven, cloud native friendly and takes less than 10 minutes to deploy. 
+* Packet does not impose multi-tenancy, virtualization, or an overlay network by default - enabling users to bring the tooling of their choice. 
+* Carrier-grade features like the ability to announce your own IP space, BGP/Anycast, and native IPv6 support are also included.
 
-## Cluster Governance Council
-
-* Bryan Cantrill
-* Dan Kohn
-* Jason Mendenhall
-* Nicholas Weaver
-
-## Hardware
-
-### Nodes Amount
-
-Currently, there are around **400** nodes available for community to run tests on. Starting from **Q2'17**, the maximum number of nodes available will increase to **900**.
-
-This number is open to change based on long running CI allocations.
-
-### Compute Node Spec
-
-* 2x Intel E5-2680v3 12-core
-* 256GB RAM
-* 2x Intel S3610 400GB SSD
-* 1x Intel P3700 800GB NVMe PCIe SSD
-* 1x QP Intel X710
-
-### Storage Node Spec
-
-* 2x Intel E5-2680v3 12-core
-* 128GB RAM
-* 2x Intel S3610 400GB SSD
-* 10x Intel 2TB NLSAS HDD
-* 1x QP Intel X710"
-
-### Network Spec
-
-![CNCF Network Spec](https://github.com/cncf/cluster/blob/master/cncf-network.png)
-
-## Software
-
-Before handing the infrastructure, CNCF cluster operators can provision the nodes with an Operating System. Currently, following options are supported:
-
-* CoreOS (any)
-* Ubuntu 16.04 LTS
-* CentOS 7
-* RHEL 7.2
-
-## Expectations
-
-The following is expected from the CNCF cluster users:
-
-* The cluster is used for the purposes of open source projects only. CNCF related projects and projects demonstrating intent of upstreaming code will be given priority.
-* Users of the cluster preserve the rare value that the cluster represents: size and bare metal consumption.
-* Users will not tamper or misuse the infrastructure. The governance committee will closely monitor usage and WILL blacklist users or organizations from using the cluster if they detect any misuse or tampering.
-* Users will need to return the servers back to a well-defined and understood baseline, post use.
-* Users ensure that no proprietary software or data on the cluster is intentionally exposed. Neither CNCF nor Intel bears the responsibility for exposure of proprietary information under any circumstances.
-* We do not expect any physical changes to be requested of the cluster. Hence, there is no expectation of on-site presence.
-* Agree to the [Terms of Use](TERMS_OF_USE.md)
+## Usage guidelines:
+* Code being run must be 100 percent open source and must not include any sensitive data.
+* Testing should involve cloud native computing, meaning containerization, microservices, orchestration or some combination.
+* You agree to write a blog post later about your experiences with the CIL.
+* Priority is given first to CNCF projects, then to developers from CNCF member companies and then to any open source developer.
+* Resources are limited so we may ask you to reduce your usage when there is high demand for the available credits from Packet ($25,000 per month).
