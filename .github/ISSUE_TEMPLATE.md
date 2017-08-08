@@ -20,6 +20,10 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
 
 ### Is the code that you’re going to run 100% open source? If so, what is the URL or URLs where it is located?
 
+### What kind of machines and how many do you expect to use (see: https://www.packet.net/bare-metal/)?
+
+### What OS and networking are you planning to use (see: https://www.packet.net/bare-metal/)?
+
 ### Please state your contributions to the open source community and any other relevant initiatives
 
 ### How will this testing advance cloud native computing (specifically containerization, orchestration, microservices or some combination).
