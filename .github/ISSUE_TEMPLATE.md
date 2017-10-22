@@ -22,7 +22,7 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
 
 ### What kind of machines and how many do you expect to use (see: https://www.packet.net/bare-metal/)?
 
-### What OS and networking are you planning to use (see: https://www.packet.net/bare-metal/)?
+### What OS and networking are you planning to use (see: https://help.packet.net/technical/infrastructure/supported-operating-systems)?
 
 ### Please state your contributions to the open source community and any other relevant initiatives
 
