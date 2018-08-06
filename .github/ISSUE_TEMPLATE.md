@@ -1,10 +1,6 @@
-If you are interested in filing a request for access to the CNCF CIL, please fill out the details below.
+Please fill out the details below to file a request for access to the CNCF Community Infrastructure Lab. Please note that access is targeted to people working on specific open source projects; this is not designed just to get your feet wet. The most important answer is the URL of the project you'll be working with. If you're looking to learn Kubernetes and related technologies, please try out [Katacoda](https://www.katacoda.com/courses/kubernetes/playground).
 
-If you are just filing an issue, ignore/delete those fields and file your issue.
-
-### First Name
-
-### Last Name
+### First and Last Name
 
 ### Email
 
@@ -18,7 +14,7 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
 
 ### Which members of the CNCF community and/or end-users would benefit from your work?
 
-### Is the code that you’re going to run 100% open source? If so, what is the URL or URLs where it is located?
+### Is the code that you’re going to run 100% open source? If so, what is the URL or URLs where it is located? What is your association with that project?
 
 ### What kind of machines and how many do you expect to use (see: https://www.packet.net/bare-metal/)?
 
@@ -26,6 +22,4 @@ If you are just filing an issue, ignore/delete those fields and file your issue.
 
 ### Please state your contributions to the open source community and any other relevant initiatives
 
-### How will this testing advance cloud native computing (specifically containerization, orchestration, microservices or some combination).
-
-### Any other relevant details we should know about while preparing the infrastructure?
+### Any other relevant details we should know about?
