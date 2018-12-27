@@ -4,7 +4,7 @@ See the cluster request backlog: [![Cluster Request Backlog](https://badge.waffl
 
 The CNCF Community Infrastructure Lab (CIL) provides free access to state-of-the-art computing resources for open source developers working to advance cloud native computing. We currently offer access to both x86 and ARMv8 bare metal servers for software builds, continuous integration, scale testing, and demonstrations. 
 
-The on-demand infrastructure resource is generously contributed and managed by New York City-based [Packet](https://www.packet.net/), a leading bare metal cloud, as part of its commitment to the cloud native and open source communities. The resources are available from 15 locations across the globe; including New York City, Silicon Valley, Amsterdam, and Tokyo. It allows developers extended testing or the ability to build out continuous integrated infrastructure with the automation and consistency of big public clouds without being required to use virtualization.
+The on-demand infrastructure resource is generously contributed and managed by New York City-based [Packet](https://www.packet.com/), a leading bare metal cloud, as part of its commitment to the cloud native and open source communities. The resources are available from 15 locations across the globe; including New York City, Silicon Valley, Amsterdam, and Tokyo. It allows developers extended testing or the ability to build out continuous integrated infrastructure with the automation and consistency of big public clouds without being required to use virtualization.
 
 Apply to Use the On-Demand Infrastructure: https://github.com/cncf/cluster
 
