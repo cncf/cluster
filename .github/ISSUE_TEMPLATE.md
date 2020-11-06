@@ -14,8 +14,8 @@ Please fill out the details below to file a request for access to the CNCF Commu
 
 ### Is the code that you’re going to run 100% open source? If so, what is the URL or URLs where it is located? What is your association with that project?
 
-### What kind of machines and how many do you expect to use (see: https://www.packet.com/bare-metal/)?
+### What kind of machines and how many do you expect to use (see: https://metal.equinix.com/product/servers/)?
 
-### What OS and networking are you planning to use (see: https://support.packet.com/kb/articles/supported-operating-systems)?
+### What operating system and networking are you planning to use?
 
 ### Any other relevant details we should know about?
