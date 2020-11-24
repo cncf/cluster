@@ -1,0 +1,26 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: cluster
+
+  # A short description of the repository that will show up on GitHub
+  🖥🖥🖥🖥 CNCF Community Cluster
+
+  # A URL with more information about the repository
+  homepage: https://cncf.io/cluster
+
+  # Collaborators: give specific users access to this repository.
+collaborators:
+  # Admins
+  - username: caniszczyk
+    permission: admin
+
+  - username: idvoretskyi
+    permission: admin
+    
+  - username: taylorwaggoner
+    permission: admin
+
+  - username: vielmetti
+    permission: admin
