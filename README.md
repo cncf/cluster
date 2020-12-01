@@ -22,4 +22,4 @@ Request access and then get up and running in minutes!
 * Testing should involve cloud native computing, meaning containerization, microservices, orchestration or some combination.
 * You agree to write a blog post later about your experiences with the CIL.
 * Priority is given first to CNCF projects, then to developers from CNCF member companies and then to any open source developer.
-* Resources are limited so we may ask you to reduce your usage when there is high demand for the available credits from Equinix Metal ($25,000 per month).
+* Resources are limited so we may ask you to reduce your usage when there is high demand for the available credits from Equinix Metal ($1,000,000 per year).
