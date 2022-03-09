@@ -19,6 +19,9 @@ collaborators:
   - username: idvoretskyi
     permission: admin
     
+  - username: jeefy
+    permission: admin
+    
   - username: taylorwaggoner
     permission: admin
 
