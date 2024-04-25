@@ -4,7 +4,7 @@ The CNCF Community Infrastructure Lab (CIL) provides free access to state-of-the
 
 The on-demand infrastructure resource is generously contributed and managed by [Equinix Metal](https://metal.equinix.com/), a leading bare metal cloud, as part of its commitment to the cloud native and open source communities. The resources are available from 15 locations across the globe; including New York City, Silicon Valley, Amsterdam, and Tokyo. It allows developers extended testing or the ability to build out continuous integrated infrastructure with the automation and consistency of big public clouds without being required to use virtualization. They offer a variety of hardware [types](https://metal.equinix.com/product/servers/).
 
-[Apply to Use the On-Demand Infrastructure](https://github.com/cncf/cluster/issues/new?assignees=caniszczyk%2C+jeefy&labels=cluster+request&projects=&template=cncf-community-lab-cluster-request.md&title=)
+[Apply to Use the On-Demand Infrastructure](https://github.com/cncf/cluster/issues/new?assignees=caniszczyk%2C+jeefy+idvoretskyi&labels=cluster+request&projects=&template=cncf-community-lab-cluster-request.md&title=)
 
 Request access and then get up and running in minutes!
 
