@@ -23,6 +23,7 @@ Request access and then get up and running in minutes!
 - Code being run must be 100 percent open source and must not include any sensitive data.
 - Testing should involve cloud native computing, meaning containerization, microservices, orchestration or some combination.
 - You agree to write a blog post later about your experiences with the CIL.
-- Priority is given first to [CNCF Graduated and Incubating projects](https://www.cncf.io/projects/) then [CNCF Sandbox projects](https://www.cncf.io/sandbox-projects/).
+- The infrastructure is being provided to CNCF Projects only
+  - Priority is given first to [CNCF Graduated and Incubating projects](https://www.cncf.io/projects/) then [CNCF Sandbox projects](https://www.cncf.io/sandbox-projects/).
 - Resources are limited so we may ask you to reduce your usage when there is high demand for the available credits from Equinix Metal ($1,000,000 per year).
 - If the purpose of using the provided infrastructure is CI/CD, please consider using the GitHub-hosted runners with GitHub Actions first, or the CNCF-provided GitHub Runners - <https://contribute.cncf.io/resources/newsletters/2024-02-21-projectnewsletter/#github-action-runners>
