@@ -5,10 +5,13 @@ repository:
   name: cluster
 
   # A short description of the repository that will show up on GitHub
-  🖥🖥🖥🖥 CNCF Community Cluster
+  description: 🖥🖥🖥🖥 CNCF Community Cluster
 
   # A URL with more information about the repository
   homepage: https://cncf.io/cluster
+
+  # Archive this repository
+  archived: true
 
   # Collaborators: give specific users access to this repository.
 collaborators:
